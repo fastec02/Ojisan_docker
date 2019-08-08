@@ -6,6 +6,12 @@
 
 `git clone git://github.com/fastec02/Ojisan_docker`
 
+- ### 依存repositoryのインストール
+
+`git sumbodule init`
+
+`git submodule update`
+
 - ### Docker
 
 #### Dockerのビルド
