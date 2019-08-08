@@ -2,11 +2,11 @@
 ====
 ### 使い方
 
-### githubからダウンロード
+- ### githubからダウンロード
 
 `git clone git://github.com/fastec02/Ojisan_docker`
 
-### Docker
+- ### Docker
 
 #### Dockerのビルド
 
@@ -20,7 +20,7 @@
 
 `docker exec -it node /bin/sh`
 
-### npm
+- ### npm
 
 #### npmのインストール
 
