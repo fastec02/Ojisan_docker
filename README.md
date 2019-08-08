@@ -30,10 +30,8 @@
 
 `npm run serve`
 
-ポートの変更
-===
-
 ### ポートの変更
+===
 
 ####  docker-compose.ymlの内容を変更
 ##### ex:
